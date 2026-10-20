@@ -1,0 +1,38 @@
+[
+    {
+        "uid": "8316952604",
+        "password": "C1D3D8D68CBACB310ABE4E4C917360AA6203B1C7AA5B055CFD85AFF00F5B3A80",
+        "account_id": "18803533434",
+        "access_token": "05844c58b5c86f036d04defc60c7d668a5f559ae45926f97c86d0d7222579633",
+        "nickname": "LIKE-08",
+        "region": "IND",
+        "level": 5
+    },
+    {
+        "uid": "8317281735",
+        "password": "04C062A215DB41568D62DA9C6CC65B9831768EF28ECCEB0C738D3D735DBE6AF4",
+        "account_id": "18804543696",
+        "access_token": "1af200234d27a2023a5d938141bc2ac41b121e39694289112f4fea2ef3f936a0",
+        "nickname": "LIKE-09",
+        "region": "IND",
+        "level": 2
+    },
+    {
+        "uid": "8317286784",
+        "password": "F7847160FA58749F7E7606D16DCEAD0C37E895E21E614FC1E10A7B1A50AFE2A3",
+        "account_id": "18804567197",
+        "access_token": "15622c46a588635175e63e1269a418a105ebce18c8e1d89b46db2437615ca887",
+        "nickname": "LIKE-.00",
+        "region": "IND",
+        "level": 2
+    },
+    {
+        "uid": "8317293529",
+        "password": "8105C5B2F02AA3C1FEF8CF276F15998F764AAF44CB55B9C80C1F8FDFB162D845",
+        "account_id": "18804594548",
+        "access_token": "cbe6e6785d42ff610a314919d5346e0eb005c387f6b92c8e8fd9b741082b29bb",
+        "nickname": "LIKEE5500",
+        "region": "IND",
+        "level": 2
+    }
+]
